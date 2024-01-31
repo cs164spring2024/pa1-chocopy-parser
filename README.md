@@ -27,7 +27,7 @@ Try this with another input file as well, such as `src/test/data/pa1/sample/cove
 
 ## Assignment specifications
 
-See the [PA1 specification][] on the course
+See the [PA1 specification](https://drive.google.com/file/d/1kWncRoAomYg20UHWSaFfZ4n14JsOkOOK/view) on the course
 website for a detailed specification of the assignment.
 
 Refer to the [ChocoPy Specification][] on the CS164 web site
